@@ -1,0 +1,3 @@
+/cygdrive/d/13927/CLionProjects/CMake_Tutorial/demo1/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/13927/CLionProjects/CMake_Tutorial/demo1/cmake-build-release/CMakeFiles/edit_cache.dir
+/cygdrive/d/13927/CLionProjects/CMake_Tutorial/demo1/cmake-build-release/CMakeFiles/demo1.dir

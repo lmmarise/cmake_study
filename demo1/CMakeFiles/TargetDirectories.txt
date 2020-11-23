@@ -1,0 +1,3 @@
+D:/13927/CLionProjects/CMake_Tutorial/demo1/CMakeFiles/demo1.dir
+D:/13927/CLionProjects/CMake_Tutorial/demo1/CMakeFiles/ALL_BUILD.dir
+D:/13927/CLionProjects/CMake_Tutorial/demo1/CMakeFiles/ZERO_CHECK.dir

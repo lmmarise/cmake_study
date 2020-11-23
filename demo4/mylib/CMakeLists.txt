@@ -1,0 +1,9 @@
+# 集中当前目录的源文件
+AUX_SOURCE_DIRECTORY(. DIR_LIB_SRCS)
+
+# 设置库文件的输出路径
+SET(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
+
+# 生成静态库
+ADD_LIBRARY(Mylib STATIC ${DIR_LIB_SRCS})
+

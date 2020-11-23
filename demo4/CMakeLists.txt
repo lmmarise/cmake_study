@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+
+PROJECT(demo3)
+
+# 将两个子目录添加过来
+ADD_SUBDIRECTORY(./mylib)
+
+ADD_SUBDIRECTORY(./src)
+

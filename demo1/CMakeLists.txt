@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+
+PROJECT(demo1)
+
+# 文件依赖
+ADD_EXECUTABLE(demo1  main.cpp)
